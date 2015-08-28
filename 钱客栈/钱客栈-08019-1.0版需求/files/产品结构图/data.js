@@ -1,0 +1,74 @@
+﻿$axure.loadCurrentPage({
+  "url":"产品结构图.html",
+  "generationDate":new Date(1440052779378.42),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable",
+"daojishi",
+"shuzi",
+"Login"],
+  "page":{
+    "packageId":"ab16cf383a7444f5a69fcf2aebd3a1a3",
+    "type":"Axure:Page",
+    "name":"产品结构图",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"微软雅黑",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"75d895282c47471dbedfd2cbd705756c",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "size":{
+              "width":1890,
+              "height":1220}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9f282d09f000457da78456937e3dc1f2",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "size":{
+                  "width":1890,
+                  "height":1220}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/产品结构图/u0.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "75d895282c47471dbedfd2cbd705756c":{
+      "scriptId":"u0"},
+    "9f282d09f000457da78456937e3dc1f2":{
+      "scriptId":"u1"}}});
