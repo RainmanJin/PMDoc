@@ -1,0 +1,136 @@
+﻿body {
+  margin:0px;
+  background-color:rgba(204, 204, 204, 1);
+  background-image:none;
+  position:static;
+  left:auto;
+  width:620px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u0 {
+  position:absolute;
+  left:10px;
+  top:10px;
+  width:610px;
+  height:520px;
+  font-family:'微软雅黑 Regular', '微软雅黑';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+}
+#u0_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:610px;
+  height:520px;
+}
+#u1 {
+  position:absolute;
+  left:2px;
+  top:252px;
+  width:606px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u2 {
+  position:absolute;
+  left:66px;
+  top:28px;
+  width:234px;
+  height:82px;
+}
+#u2_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:234px;
+  height:82px;
+}
+#u3 {
+  position:absolute;
+  left:2px;
+  top:33px;
+  width:230px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u4 {
+  position:absolute;
+  left:330px;
+  top:64px;
+  width:150px;
+  height:27px;
+  font-family:'Microsoft YaHei';
+  font-size:20px;
+  color:#666666;
+}
+#u4_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:150px;
+  height:27px;
+}
+#u5 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:150px;
+  word-wrap:break-word;
+}
+#u6 {
+  position:absolute;
+  left:50px;
+  top:140px;
+  width:530px;
+  height:380px;
+  font-family:'Microsoft YaHei';
+  font-size:14px;
+  color:#666666;
+}
+#u6_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:530px;
+  height:380px;
+}
+#u7 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:530px;
+  word-wrap:break-word;
+}
+#u8 {
+  position:absolute;
+  left:240px;
+  top:430px;
+  width:130px;
+  height:50px;
+}
+#u8_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:130px;
+  height:50px;
+  background-image:url(../../resources/images/transparent.gif);
+  font-family:'Microsoft YaHei';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:none;
+  color:#666666;
+  text-align:center;
+}
+#u8_input {
+  font-family:'微软雅黑';
+}
